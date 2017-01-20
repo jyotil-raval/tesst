@@ -3,6 +3,6 @@
 
     angular
         .module('module', [
-            'dependencies','dependencies'
+            'trafford','trafford','trafford','trafford','trafford','trafford'
         ]);
 })();
