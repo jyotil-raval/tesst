@@ -3,6 +3,6 @@
 
     angular
         .module('module', [
-            'Jyotil','dependencies'
+            'Jyotil', 'trafford','trafford','trafford','trafford','trafford','trafford'
         ]);
 })();
