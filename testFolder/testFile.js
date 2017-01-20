@@ -3,6 +3,6 @@
 
     angular
         .module('module', [
-            'dependencies'
+            'dependencies','dependencies'
         ]);
 })();
